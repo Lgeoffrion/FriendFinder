@@ -1,0 +1,29 @@
+/* google font family font-family: 'Cormorant SC', serif; */
+
+#home{
+    background-image: url("adult-blur-boys-935981.jpg");
+    font-family: 'Cormorant SC', serif;
+    text-align: center;
+}
+
+#survey{
+    background-image: url("backlit-bonding-casual-708392.jpg");
+    background-size: cover;
+    font-family: 'Cormorant SC', serif;
+    text-align: center;
+}
+
+.jumbotron{
+    background-color: rgba(255, 255, 255, 0.70);
+    padding-bottom: 0px;
+}
+
+
+#surveycontainer{
+    background-color: rgba(255, 255, 255, 0.70);
+}
+
+
+.fofooter{
+    padding-top: 60px;
+}
